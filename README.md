@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+*Studied web development and programming since 2020.*
+
+## Familiar technologies
+  -JavaScript
+  -PHP
+  -React
+  -SQL
+  -Python
+
+## Github Stats
+
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=otdot&show_icons=true)
+
+
 <!--
 **otdot/otdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
