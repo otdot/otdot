@@ -1,21 +1,24 @@
-### Hi there 👋
+## Hello! ☀️
 
 *Studied web development and programming since 2020.*
 
-## Familiar technologies
+### Familiar technologies
 
-  1.JavaScript <br>
-  2.PHP <br>
-  3.Python <br>
-  4.SQL <br>
-  5.React <br>
+  - JavaScript
+  - PHP 
+  - Python 
+  - SQL 
+  - React
 
 
-## Github Stats
+### Github Stats
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=otdot&show_icons=true)
 
 
+### Check out my speed game!
+
+**https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/**
 <!--
 **otdot/otdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
