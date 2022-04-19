@@ -4,11 +4,11 @@
 
 ## Familiar technologies
 
-1.JavaScript <br>
-2.PHP <br>
-3.Python <br>
-4.SQL <br>
-5.React <br>
+  1.JavaScript <br>
+  2.PHP <br>
+  3.Python <br>
+  4.SQL <br>
+  5.React <br>
 
 
 ## Github Stats
