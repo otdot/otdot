@@ -3,11 +3,11 @@
 *Studied web development and programming since 2020.*
 
 ## Familiar technologies
-  -JavaScript
-  -PHP
-  -React
-  -SQL
-  -Python
+-JavaScript
+-PHP
+-React
+-SQL
+-Python
 
 ## Github Stats
 
