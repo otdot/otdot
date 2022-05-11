@@ -22,7 +22,7 @@
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=otdot&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otdot&hide=TeX&layout=compact)
 
 
 ### Check out my speed game!
