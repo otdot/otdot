@@ -2,7 +2,9 @@
 
 *Studied web development and programming since 2020.*
 
-### Familiar technologies
+### Familiar technologies and IDE's
+
+<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a>
 
   - JavaScript
   - PHP 
