@@ -25,6 +25,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otdot&hide=TeX&layout=compact)
 
 
-### Check out my speed game!
+### My projects!
 
 **https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/**
+**https://tasteitappotto.herokuapp.com/**
+
+
