@@ -27,7 +27,7 @@
 
 ### My projects!
 
-**https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/**
-**https://tasteitappotto.herokuapp.com/**
+- **https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/**
+- **https://tasteitappotto.herokuapp.com/**
 
 
