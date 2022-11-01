@@ -16,6 +16,6 @@
 ### My projects
  [![SpeedGame](https://img.shields.io/badge/Speed%20Game-React-Blue)](https://speedgame-with-react-url.netlify.app/)
  [![Recipe App](https://img.shields.io/badge/Recipe%20App-React-important)](https://recipeappotto.herokuapp.com/)
- [![Countries and Weathers](https://img.shields.io/badge/Recipe%20App-React-important)](https://countriesandweathers.netlify.app/)
+ [![Countries and Weathers](https://img.shields.io/badge/Countries%20and%20Weathers-React%2C%20Node-informational)](https://countriesandweathers.netlify.app/)
 
 
