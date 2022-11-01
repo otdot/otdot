@@ -14,7 +14,7 @@
 
 
 ### My projects
- - [![Testtest](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+ - [![SpeedGame](https://img.shields.io/badge/Speed%20Game-React-Blue)]([https://GitHub.com/Naereen/ama.fr](https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/))
  - ![Speed Game](https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/) 
  - ![Recipe App](https://tasteitappotto.herokuapp.com/) 
  - ![Countries and Weathers](https://countriesandweathers.netlify.app/)
