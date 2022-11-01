@@ -14,5 +14,8 @@
 
 
 ### My projects
-[![Speed Game](https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/)] ![Recipe App](https://tasteitappotto.herokuapp.com/) ![Countries and Weathers](https://countriesandweathers.netlify.app/)
+ - [![asdasd](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+ - ![Speed Game](https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/) 
+ - ![Recipe App](https://tasteitappotto.herokuapp.com/) 
+ - ![Countries and Weathers](https://countriesandweathers.netlify.app/)
 
