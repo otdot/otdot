@@ -14,7 +14,7 @@
 
 
 ### My projects
- - [![SpeedGame](https://img.shields.io/badge/Speed%20Game-React-Blue)](https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/)
+ - [![SpeedGame](https://img.shields.io/badge/Speed%20Game-React-Blue)](https://speedgame-with-react-url.netlify.app/)
  - ![Speed Game](https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/) 
  - ![Recipe App](https://tasteitappotto.herokuapp.com/) 
  - ![Countries and Weathers](https://countriesandweathers.netlify.app/)
