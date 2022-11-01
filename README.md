@@ -1,6 +1,9 @@
 ## Hello! ☀️
 
-*Studied web development and programming since 2020.*
+*Studied web development and programming since 2020. At the moment in studying in Business College Helsinki*
+
+### I code with
+ - <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### Familiar technologies and IDE's
 
@@ -20,14 +23,14 @@
 
 ### Github Stats
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=otdot&show_icons=true)
+![Ottos's Github stats](https://github-readme-stats.vercel.app/api?username=otdot&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otdot&hide=TeX&layout=compact)
 
 
 ### My projects!
 
-- **https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/**
-- **https://tasteitappotto.herokuapp.com/**
-
+- ![Speed Game](https://otto-makes-very-nice-speedgame-with-react-url.netlify.app/)
+- ![Recipe App](https://tasteitappotto.herokuapp.com/)
+- ![Countries and Weathers](https://countriesandweathers.netlify.app/)
 
